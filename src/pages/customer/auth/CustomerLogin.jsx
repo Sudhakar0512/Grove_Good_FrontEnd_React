@@ -70,11 +70,11 @@ export const CustomerLogin = () => {
             {errorLogIn && <div className="error">{errorLogIn}</div>}
           </form>
 
-          <img
+             {/*<img
             className="h-64 w-64 object-cover md:h-[490px] md:w-[384px] md:border-l md:border-gray-300 md:pl-20"
             src={loginphoto}
             alt="/"
-          />
+          />*/}
         </div>
       </div>
     </main>
