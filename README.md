@@ -3,7 +3,7 @@
 Application Link :  https://imaginative-rabanadas-9e4c0b.netlify.app
 
 Organic Connect
-Organic Connect is a platform designed to connect producers and farmers with online customers, facilitating the direct sale of homemade organic products. This MERN stack application streamlines the process of buying unique brands of organic goods directly from producers, enhancing transparency and efficiency in transactions.
+GroveGood is a platform designed to connect producers and farmers with online customers, facilitating the direct sale of homemade organic products. This MERN stack application streamlines the process of buying unique brands of organic goods directly from producers, enhancing transparency and efficiency in transactions.
 
 Features
 Direct Producer-Customer Connection: Seamlessly connect producers of homemade organic products with online customers.
